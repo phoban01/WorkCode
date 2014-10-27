@@ -6,5 +6,3 @@ xml = converter.parse("/users/piarashoban/documents/schbavmasample.xml")
 print xml.metadata.title
 
 xml.write(".midi","/users/piarashoban/documents/schubert.midi")git
-
-#end of file
